@@ -2,10 +2,15 @@
   --primary-color: #142838;
     --secondary-color: #849a9f;
     --accent-color: #faa8b8;
+  --primary-color: #142838;
+    --secondary-color: #849a9f;
+    --accent-color: #faa8b8;
     --dark-color: #2d2d39;
     --light-color: #f8f9fa;
     --text-color: #333;
     --text-light: #6c757d;
+    --transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+
     --transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
 
 }
